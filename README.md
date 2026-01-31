@@ -1,5 +1,4 @@
 <p align="center">
-  🌸📚🌸
 </p>
 
 <h1 align="center">Formulario de Calificación de Estudiantes</h1>
@@ -51,7 +50,7 @@ lógica condicional y validaciones para un correcto proceso académico.
 
 ---
 
-## 🎓💐 Datos del Estudiante
+##   🌸📚🌸 Datos del Estudiante
 > 🏫 **Nivel:** Secundario Técnico Profesional  
 > 💻 **Módulo:** Desarrollo de Aplicaciones Informáticas  
 > 📚 **Curso:** 5to D-2  
@@ -62,6 +61,6 @@ lógica condicional y validaciones para un correcto proceso académico.
 ---
 
 <p align="center">
-  ✨💗 Hecho con dedicación y amor por el aprendizaje 💗✨
+  ✨💗 Hecho pr Sherlin con dedicación y amor por el aprendizaje 💗✨
 </p>
 
