@@ -28,8 +28,8 @@ Fue desarrollado usando **C# y Windows Forms**, aplicando lógica condicional y 
 
 ## 🖼️ Vista del formulario
 <p align="center">
-  <img src="la1.png" width="250">
-  <img src="la2.png" width="250">
-  <img src="la3.png" width="250">
+  <img src="la1.png" width="300">
+  <img src="la2.png" width="300">
+  <img src="la3.png" width="300">
 </p>
 
