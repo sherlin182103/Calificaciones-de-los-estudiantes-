@@ -28,5 +28,5 @@ Fue desarrollado usando **C# y Windows Forms**, aplicando lógica condicional y 
 
 ## 🖼️ Vista del formulario
 <p align="center">
-  <img src="assets/img/formulario.png" width="450">
+  <img src="la1.png" width="450">
 </p>
