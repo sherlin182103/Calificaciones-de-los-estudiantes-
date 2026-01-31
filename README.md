@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Formulario de Calificación de Estudiantes</h1>
+<h1 align="center">📚Formulario de Calificación de Estudiantes📚</h1>
 
 <p align="center">
   ✨ Aplicación en <strong>C# Windows Forms</strong> para el control académico ✨
@@ -50,13 +50,13 @@ lógica condicional y validaciones para un correcto proceso académico.
 
 ---
 
-##   🌸📚🌸 Datos del Estudiante
+##   🌸📚🎀Datos del Estudiante
 > 🏫 **Nivel:** Secundario Técnico Profesional  
 > 💻 **Módulo:** Desarrollo de Aplicaciones Informáticas  
 > 📚 **Curso:** 5to D-2  
 > 🗓️ **Año escolar:** 2025-2026  
 >  
-> 👩‍💻 **Estudiante:** *Sherlin Rachel Jimenez Felipa*  
+> 👩‍💻🎀 **Estudiante:** *Sherlin Rachel Jimenez Felipa*  
 
 ---
 
